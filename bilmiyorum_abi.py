@@ -14,9 +14,9 @@ ABSURT_CEVAPLAR = [
     "Bence bu sorunun cevabı, kedinin kuyruğunun ucunda saklı. Kedi miyavladığında dinle.",
     "Bilim insanları henüz emin değil ama bence uzaylılar da aynı şeyi merak ediyor.",
     "Bu soruyu sormak yerine bir fincan çay iç. Çay her şeyi çözer. Çözmezse ikinci fincan.",
-    "Aslında cevap basit: Evren genişliyor, sen de genişle."
-    "Kafam karışık ama eminim ki bir yerlerde bir abi bunu biliyor."
-    "Bunu düşünürken burnum kaşındı. Demek ki cevap 'evet' olmalı."
+    "Aslında cevap basit: Evren genişliyor, sen de genişle.",
+    "Kafam karışık ama eminim ki bir yerlerde bir abi bunu biliyor.",
+    "Bunu düşünürken burnum kaşındı. Demek ki cevap 'evet' olmalı.",
     "Bilmiyorum ama eğer öğrenirsem sana ilk ben söylerim. Şaka şaka söylemem."
 ]
 
